@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Articles (peer-reviewed)
+Articles 
 ---------------
 - Ariza, A., Rey, J. S., & de Miguel, S. M. (2019): [Comparison of maximum likelihood estimators and regression models for burn severity mapping in Mediterranean forests using Landsat TM and ETM+ data](https://www.revistasipgh.org/index.php/rcar/article/view/145). Revista Cartográfica, (98), 145 177.
 
@@ -17,13 +17,13 @@ Articles (peer-reviewed)
 
 - Ariza, A. (2013): [Descripción y corrección de productos Landsat 8 LDCM](http://www.un-spider.org/). Knowledge Portal, United Nations / UN-SPIDER – UNOOSA. 2013.
 
-Book chapters (peer-reviewed)
+Book chapters 
 ---------------
 -  Isaacs, P., & Ariza, A. (2015): [Monitoreo a procesos de restauración ecológica aplicado a ecosistemas terrestres. Monitoreo a la restauración ecológica desde la escala del paisaje](https://www.researchgate.net/profile/Inge_Armbrecht2/publication/288004951_Las_hormigas_en_el_monitoreo_de_la_restauracion_ecologica/links/567deecc08ae1e63f1e60d71.pdf#page=53), Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.
 
-Others publications (peer-reviewed)
+Others publications 
 ---------------
-- UNISPACE+50 High Level Segment, (2018).: [Committee on the Peaceful. Uses] (https ://www.unoosa.org/res/oosadoc/data/documents/2018/aac _1052018crp/aac_1052018crp_2_0_html/AC105_2018_ pdf). Peaceful. Uses of Outer Space, Sixty first Session. Vienna , 20 29 June 2018.
+- UNISPACE+50 High Level Segment, (2018).: [Committee on the Peaceful. Uses](https ://www.unoosa.org/res/oosadoc/data/documents/2018/aac _1052018crp/aac_1052018crp_2_0_html/AC105_2018_ pdf). Peaceful. Uses of Outer Space, Sixty first Session. Vienna , 20 29 June 2018.
 
 
 
