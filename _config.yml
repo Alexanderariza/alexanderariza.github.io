@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julia Wagemann - Geospatial data consultant"
+title                    : "Alexander Ariza - Geospatial data research"
 title_separator          : "-"
-name                     : "Julia Wagemann"
+name                     : "Alexander Ariza"
 description              : "Making meteorological, climate and atmospheric data better accessible"
-url                      : "https://jwagemann.github.io"
+url                      : "https://alexanderariza.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jwagemann/jwagemann.github.io"
+repository               : "Alexanderariza/alexanderariza.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "JuliaWagemann"
+  username               : "Alexanderariza"
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julia Wagemann"
+  name             : " Alexander Ariza"
   avatar           : "logo.png"
   bio              : "Making meteorological, climate and atmospheric data better accessible"
   location         :
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "wagemann.julia@gmx.de"
+  email            : "alexanderariza@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jwagemann"
+  github           : "alexanderariza"
   google_plus      :
   keybase          :
   instagram        :
