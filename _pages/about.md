@@ -23,7 +23,7 @@ Projects I have been working on recently:<br>
 
 - PhD research
 ------
-I finished a [PhD at the Faculty of Geography at University of Alcalá , Alcala de Henares, Madrid](https://geogra.uah.es/?phase=1&subpage=aims&subprojectid=1013), in collaboration with [GITA research Grup](https://geogra.uah.es/gita/) and [Earth Observation Group for the Quantitative Dynamics of the Biosphere](http://www.upm.es/observatorio/vi/index.jsp?pageac=grupo.jsp&idGrupo=640) of (Polytechnic University of Madrid](https://www.upm.es/),. My research focuses on analysis of changes in the structure of the landscape by forest fires by detection, and how we can support this with the Big Data technologies, and cloud computing. I am interested in how big data technologies like GEE or JS can be leveraged to provide efficient cloud geospatial data services
+I finished a [PhD at the Faculty of Geography at University of Alcalá , Alcala de Henares, Madrid](https://geogra.uah.es/?phase=1&subpage=aims&subprojectid=1013), in collaboration with [GITA research Grup](https://geogra.uah.es/gita/) and [Earth Observation Group for the Quantitative Dynamics of the Biosphere](http://www.upm.es/observatorio/vi/index.jsp?pageac=grupo.jsp&idGrupo=640) of [Polytechnic University of Madrid](https://www.upm.es/),. My research focuses on analysis of changes in the structure of the landscape by forest fires by detection, and how we can support this with the Big Data technologies, and cloud computing. I am interested in how big data technologies like GEE or JS can be leveraged to provide efficient cloud geospatial data services
 It is a methodology.
 
 - Community builder
