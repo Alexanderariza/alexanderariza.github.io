@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hi, I am Alexander and I am a <font color='#294ad6'>geospatial data searcher, PhD . Geographic Information Technologies </font> on a mission to make data from open remote sensors more accessible. My work is on the applicability of research between data users and data providers. I strongly believe in leveraging open source geospatial software and bringing together different Earth Science communities to make the most of open geospatial data.<br>
-You can find me on [Researchgate](https://www.researchgate.net/profile/Alexander_Ariza2), [GitHub](https://github.com/Alexanderariza) and [LinkedIn](https://www.linkedin.com/in/alexander-ariza-41173134/).
+You can find me on [Researchgate](https://www.researchgate.net/profile/Alexander_Ariza2), [GitHub](https://github.com/Alexanderariza) and [LinkedIn](https://www.linkedin.com/in/alexander-ariza).
 
 - Geospatial data searcher
 ------
