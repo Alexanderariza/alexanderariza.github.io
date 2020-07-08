@@ -15,7 +15,7 @@ Workshops
   - Sistema de Gestión y Monitoreo en incendios forestales <br>
   - Cartografía de Incendios Aplicaciones en la Nube<br>
 
-- **<a href='http://www.un-spider.org/news-and-events/news/un-spider-conduct-webinar-role-satellites-forest-fire-management' target='_blank'>role of satellites for forest fire management</a>** - *Short Course - 10 June 2020*<br>
+- **<a href='http://www.un-spider.org/news-and-events/news/un-spider-conduct-webinar-role-satellites-forest-fire-management' target='_blank'>role of satellites for forest fire management</a>** - *Short Course - 10 June 2020*<br><br/><img src='/images/logo.png'>
   - “Introduction to Satellite Products and Services for the Management of Forest Fires”<br> 
 Introduction to practical worfklows and a case study on Centroamerica forest fires based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br>
   - Introduction to satellite atmospheric observations of fire emissions<br> 
@@ -27,6 +27,8 @@ Introduction to practical worfklows and a case study on Centroamerica forest fir
 
 - **<a href='https://training.eumetsat.int/course/view.php?id=360' target='_blank'>User workshop and training on Fire Monitoring</a>** - *Webinar series - 11-18 May 2020*<br>
 Daily introductions to practical worfklows and case studies for fire monitoring based on Jupyter notebooks.<br><br>
+
+
 
 **2019**
 - <a href="https://atmostraining.info/" target="_blank">Accessing and processing atmospheric composition data with Python and Jupyter notebooks</a><br>*First Joint Training Course on Atmospheric Composition - Cluj-Napoca, Romania - 4-8 November 2019*<br>Two practical sessions introduced course participants to different types of atmospheric composition data from AC-SAF, Sentinel-5P and CAMS and gave hands-on examples how the data can be handled, processed and visualized with Python and Jupyter Notebooks.<br><br>
