@@ -5,25 +5,25 @@ author_profile: true
 ---
 
 
-Throughout the year, I attend geospatial conferences where I run workshops on geospatial data analysis or give presentations on open meteorological and climate data and my PhD research. You find a selection of the most recent workshops / conference talks below.
-
-
-Podcast
-------
-**June 2020** <br>
-I recently sat down with Daniel O'Donohue from [The MapScaping Podcast](https://mapscaping.com/blogs/the-mapscaping-podcast) and talked all things [Project Jupyter](https://jupyter.org/): what it is, why it is great and how it can boost the reproducibility of your research.<br>
-Tune in on [Apple](https://buff.ly/2X6nMNW), [Android](https://buff.ly/2O3kuH5) or [Spotify](https://buff.ly/2X7Ym2k).
+You find a selection of the most recent workshops / conference talks below.
 
 
 Workshops
 ------
 **2020**
-- **<a href='https://opengeohub.org/summer_school_2020' target='_blank'>OpenGeoHub Summer School 2020</a>** - *Wageningen, Netherlands - 16-22 August 2020*<br>
-  - Analysis of Big Earth Data with Jupyter Notebooks <br>
-  - Dashboarding with Jupyter Notebooks and Voila<br>
+- **<a href='http://www.un-spider.org/news-and-events/news/un-spider-webinar-showcases-methods-map-burn-severity-after-forest-fire' target='_blank'>MAPEO DE LA SEVERIDAD EN INCENDIOS FORESTALES 2020</a>** - *UN-SPIDER webinar showcases methods to map burn severity after forest fire. April & May 2020*<br>
+  - Sistema de Gestión y Monitoreo en incendios forestales <br>
+  - Cartografía de Incendios Aplicaciones en la Nube<br>
 
-- **<a href='https://training.eumetsat.int/course/view.php?id=366' target='_blank'>Using Copernicus Data for Air Quality Applications</a>** - *EGU Short Course - 26-29 May 2020*<br>
-Introduction to practical worfklows and a case study on Covid-19 based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br>
+- **<a href='http://www.un-spider.org/news-and-events/news/un-spider-conduct-webinar-role-satellites-forest-fire-management' target='_blank'>role of satellites for forest fire management</a>** - *Short Course - 10 June 2020*<br>
+  - “Introduction to Satellite Products and Services for the Management of Forest Fires”<br> 
+Introduction to practical worfklows and a case study on Centroamerica forest fires based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br>
+  - Introduction to satellite atmospheric observations of fire emissions<br> 
+  - State-of-the-art Copernicus operational data sets for monitoring smoke and fire emissions to the atmosphere<br> 
+  - UN-SPIDER Recommended Practice for burn severity mapping<br> 
+  - Case studies<br> 
+    - Maya Reserve of Pete (Guatemala)<br> 
+    - Chernobyl (Ukraine)<br> 
 
 - **<a href='https://training.eumetsat.int/course/view.php?id=360' target='_blank'>User workshop and training on Fire Monitoring</a>** - *Webinar series - 11-18 May 2020*<br>
 Daily introductions to practical worfklows and case studies for fire monitoring based on Jupyter notebooks.<br><br>
