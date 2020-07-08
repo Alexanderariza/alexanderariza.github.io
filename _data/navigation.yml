@@ -1,10 +1,10 @@
 # main links links
 main:
+    - title: "Research & projects"
+    url: /engagement/ 
+  
   - title: "Workshops & Talks"
     url: /talks/
-
-  - title: "Research & projects"
-    url: /engagement/    
 
   - title: "Publications"
     url: /publications/   
