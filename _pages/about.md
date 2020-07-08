@@ -26,12 +26,12 @@ Projects I have been working on recently:<br>
 I finished a [PhD at the Faculty of Geography at University of Alcalá , Alcala de Henares, Madrid](https://geogra.uah.es/?phase=1&subpage=aims&subprojectid=1013), in collaboration with [GITA research Grup](https://geogra.uah.es/gita/) and [Earth Observation Group for the Quantitative Dynamics of the Biosphere](http://www.upm.es/observatorio/vi/index.jsp?pageac=grupo.jsp&idGrupo=640) of [Polytechnic University of Madrid](https://www.upm.es/),. My research focuses on analysis of changes in the structure of the landscape by forest fires by detection, and how we can support this with the Big Data technologies, and cloud computing. I am interested in how big data technologies like GEE or JS can be leveraged to provide efficient cloud geospatial data services
 It is a methodology.
 
-- Community builder
+- Research and projects
 ------
-  - *Program track Co-Chair Posters* - [JupyterCon 2020](https://jupytercon.com/)
-  - *Co-Founder* - [Women in Geospatial network](https://womeningeospatial.org) - A professional network for women in the geospatial domain to promote gender diversity in the geospatial field. [Join us!](bit.ly/womeningeospatial_signup)
-  - *Co-Founder* - [Glocal LifeLearn e.V.](https://glocal-lifelearn.org) - A NGO that is supporting education initiatives worldwide, aiming to give disadvantaged children access to education. 
-  - *Organiser* - [OpenDataHack @ECMWF](https://www.ecmwf.int/en/learning/workshops/opendatahack-ecmwf-beyond-weather-explore-creative-uses-open-data) - A weekend-long hackathon putting open data from Copernicus and ECMWF in the spotlight.
+  - *FOREST FIRES ON GEE GEEMAP* - [Jupyter short course 2020](https://github.com/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP)
+  - *Member* - [The Latin-American Network for Remote Sensing and Forest Fires (RedLaTIF)](https://gofcgold.org/regional-networks/red-latinoamerica-deteledeteccion-e-incendios-forestales-redlatif) -  is a regional network established in 2002 under the Global Observations of Forest and Land Dynamics (GOFC/GOLD)-Fire Mapping and Monitoring Theme. [Join us!](bit.ly/womeningeospatial_signup)
+  - *Co-Founder* - [Cosmo-LifeLearn](https://glocal-lifelearn.o) - Launched in 2020, Cosmo-LifeLearn is a NGO that is supporting education initiatives worldwide, aiming to give disadvantaged children access to the science and space technologies education. The mission is to inspire and enrich upper-elementary-aged kids' learning of space and Earth science online through fun games, hands-on activities, informative articles and engaging short videos. With material in both English and Spanish and resources for parents and teachers. [Join us!](bit.ly/womeningeospatial_sig)
+
 
 
 
