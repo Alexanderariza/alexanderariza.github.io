@@ -29,7 +29,7 @@ It is a methodology.
 - Research and projects
 ------
   - *FOREST FIRES ON GEE GEEMAP* - [Jupyter short course 2020](https://github.com/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP)
-  - *Member* - [The Latin-American Network for Remote Sensing and Forest Fires (RedLaTIF)](https://gofcgold.org/regional-networks/red-latinoamerica-deteledeteccion-e-incendios-forestales-redlatif) -  is a regional network established in 2002 under the Global Observations of Forest and Land Dynamics (GOFC/GOLD)-Fire Mapping and Monitoring Theme. [Join us!](bit.ly/womeningeospatial_signup)
+  - *Member* - [The Latin-American Network for Remote Sensing and Forest Fires (RedLaTIF)](https://gofcgold.org/regional-networks/red-latinoamerica-deteledeteccion-e-incendios-forestales-redlatif) -  is a regional network established in 2002 under the Global Observations of Forest and Land Dynamics (GOFC/GOLD)-Fire Mapping and Monitoring Theme. 
   - *Co-Founder* - [Cosmo-LifeLearn](https://glocal-lifelearn.o) - Launched in 2020, Cosmo-LifeLearn is a NGO that is supporting education initiatives worldwide, aiming to give disadvantaged children access to the science and space technologies education. The mission is to inspire and enrich upper-elementary-aged kids' learning of space and Earth science online through fun games, hands-on activities, informative articles and engaging short videos. With material in both English and Spanish and resources for parents and teachers. [Join us!](bit.ly/womeningeospatial_sig)
 
 
