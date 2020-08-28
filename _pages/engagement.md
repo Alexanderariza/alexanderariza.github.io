@@ -14,6 +14,7 @@ Is a regional network established in 2002 under the Global Observations of Fores
 
 Sortzen-Geo Iniciative
 ------
+<br/><img src='/images/Sortem-min.PNG'>
 I am a co-founder and currently member of the German-based NGO [Sortzen-Geo](https://alexanderariza.github.io/sortzen.geo.github.io/). We will work toward the sustained availability of satellite and ground observations, as well as other sources of data and information in support of Disaster Risk Reduction and management. The ultimate goal of this proposed Synergy Framework is to support countries all over the world towards a sustainable process to address their DRR requirements.<br>
 A number of partners involved on a global scale in space technologies want to reaffirm their strong interest in addressing synergies to better respond to the requirements established in the post-2020 framework.
 
