@@ -7,6 +7,8 @@ author_profile: true
 
 Articles 
 ---------------
+- Pachón, cendales I., Ariza, A., Fernández-Gómez, W. (2020). [Identifying Flexible Pavement Distresses Using Spectro Radiometry Classification on Worldview 3 Images](https://www.ripublication.com/ijaer20/ijaerv15n10_04.pdf). International Journal of Applied Engineering Research ISSN 0973-4562 Volume 15, Number 10 (2020) pp. 990-995.
+
 - Ariza, A., Rey, J. S., & de Miguel, S. M. (2019): [Comparison of maximum likelihood estimators and regression models for burn severity mapping in Mediterranean forests using Landsat TM and ETM+ data](https://www.revistasipgh.org/index.php/rcar/article/view/145). Revista Cartográfica, (98), 145 177.
 
 - Roa Melgarejo , Ariza, A., Ramírez, H. M., & León Rincón , H. (2018): [Comparison of ATCOR Atmospheric and ELM Linear Empirical Correction Models Applied to WorldView 2 Images](http://dx.doi.org/10.18180/tecciencia.2018.25.4). Tecciencia , 13(25), 29 38.
