@@ -15,7 +15,7 @@ Articles
 
 - Ariza, A., Roa, O. J., Serrato, P. K., & León Rincón, H. A. (2018): [Using spectral ratios derived from remote sensing to geomorphological surveys in island areas of the Colombian Caribbean](http://www.scielo.org.co/scielo.php?pid=S0123-37692018000100105&script=sci_abstract&tlng=es). Perspectiva Geográfica, 23(1), 105 122.
 
-- Ariza, A., Robredo Irizar , M., & Bayer, S. (2018): [Empirical line model for the atmospheric correction of sentinel 2A MSI images in the Caribbean Islands. European Journal of Remote](https://www.tandfonline.com/doi/full/10.1080/22797254.2018./10.1080/22797254.2018.14827321482732). images in the Caribbean Islands. European Journal of Remote Sensing, 51(1), 765 776.
+- Ariza, A., Robredo Irizar , M., & Bayer, S. (2018): [Empirical line model for the atmospheric correction of sentinel 2A MSI images in the Caribbean Islands. European Journal of Remote](https://doi.org/10.1080/22797254.2018.1482732). images in the Caribbean Islands. European Journal of Remote Sensing, 51(1), 765 776.
 
 - Ariza, A. (2013): [Descripción y corrección de productos Landsat 8 LDCM](http://www.un-spider.org/). Knowledge Portal, United Nations / UN-SPIDER – UNOOSA. 2013.
 
