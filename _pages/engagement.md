@@ -33,13 +33,16 @@ GEDI project and Forest fire susceptibility
 
 The new Global Ecosystem Dynamics Investigation [GEDI](https://gedi.umd.edu/) launched on December 5th, 2018 is operating onboard the International Space Station [ISS](https://spotthestation.nasa.gov/) producing a high-resolution laser collecting 3D data around Earth on forest canopy height, canopy vertical structure, and surface elevation. We work on the evaluation of a new method that has been applied for forest fire susceptibility mapping GEDI data based. The results of the analysis were verified using forest fire location data with the help of a new the library pyGEDI is developed in Python as it can utilize multiple CPUs, GPUs, and is supported by C and [GDAL](https://github.com/OSGeo/gdal) and GEE.
 
+Interactive fire mapping with geemap: a Python package for forests fire monitoring
+------
+<br/><img src='https://github.com/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/IMG/JS2PY.gif'>
+
+*Interactive fire mapping with geemap* [Jupyter short course 2020](https://github.com/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP). A basic scripts collection explained in Spanish for digital image processing using various Python packages, including Earth Engine Python API, folium, ipyleaflet, and geemap. Explained interactively on Jupyter notebooks, in order to be able to work with data in bulk in the cloud using open source software, as an alternative to proprietary desktop software. Developed as part of the support material for the [Regional support RSO](http://kp.un-spider.org/network/regional-support-offices) offices of the UN-SPIDER program.
+
 IO-Star Iniciative
 ------
 <br/><img src='/images/IO_STAR.JPG'>
 
 I am a co-founder and currently member of the NGO based [IO-Star](https://alexanderariza.github.io/sortzen.geo.github.io/). We will work toward the sustained availability of satellite and ground observations, as well as other sources of data and information in support of Disaster Risk Reduction and management. The ultimate goal of this proposed Synergy Framework is to support countries all over the world towards a sustainable process to address their DRR requirements.<br>
 A number of partners involved on a global scale in space technologies want to reaffirm their strong interest in addressing synergies to better respond to the requirements established in the post-2020 framework.
-
-
-
 
