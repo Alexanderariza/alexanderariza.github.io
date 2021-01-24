@@ -24,6 +24,11 @@ IO-Star Iniciative
 I am a co-founder and currently member of the NGO based [IO-Star](https://alexanderariza.github.io/sortzen.geo.github.io/). We will work toward the sustained availability of satellite and ground observations, as well as other sources of data and information in support of Disaster Risk Reduction and management. The ultimate goal of this proposed Synergy Framework is to support countries all over the world towards a sustainable process to address their DRR requirements.<br>
 A number of partners involved on a global scale in space technologies want to reaffirm their strong interest in addressing synergies to better respond to the requirements established in the post-2020 framework.
 
-
+Landslides on Bared Soil Index
+------
+<br/><img src='/images/IO_STAR.JPG'>
+</script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+I am a co-founder and currently member of the NGO based [IO-Star](https://alexanderariza.github.io/sortzen.geo.github.io/). We will work toward the sustained availability of satellite and ground observations, as well as other sources of data and information in support of Disaster Risk Reduction and management. The ultimate goal of this proposed Synergy Framework is to support countries all over the world towards a sustainable process to address their DRR requirements.<br>
+A number of partners involved on a global scale in space technologies want to reaffirm their strong interest in addressing synergies to better respond to the requirements established in the post-2020 framework.
 
 
