@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander Ariza - GEOSPATIAL DATA SCIENCE RESEARCHER"
+title                    : "Alexander Ariza - GEO DATA SCIENCE RESEARCHER"
 title_separator          : "-"
 name                     : "Alexander Ariza"
-description              : "Making Geospatial and remote sensing data better accessible"
+description              : "Working on Earth observations and Data Science for better accessibility and meaningful, for the benefit of all."
 url                      : "https://alexanderariza.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Alexanderariza/alexanderariza.github.io"
