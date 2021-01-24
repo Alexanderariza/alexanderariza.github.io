@@ -35,7 +35,7 @@ The new Global Ecosystem Dynamics Investigation [GEDI](https://gedi.umd.edu/) la
 
 Interactive fire mapping with geemap: a Python package for forests fire monitoring
 ------
-<br/><a href="https://github.com/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP/blob/master/IMG/JS2PY.gif"></a>
+<br/><img src="https://cdn.pixabay.com/photo/2015/02/09/20/03/koala-630117__340.jpg"/>
 
 *Interactive fire mapping with geemap* [Jupyter short course 2020](https://github.com/Alexanderariza/FOREST-FIRES-ON-GEE-GEEMAP). A basic scripts collection explained in Spanish for digital image processing using various Python packages, including Earth Engine Python API, folium, ipyleaflet, and geemap. Explained interactively on Jupyter notebooks, in order to be able to work with data in bulk in the cloud using open source software, as an alternative to proprietary desktop software. Developed as part of the support material for the [Regional support RSO](http://kp.un-spider.org/network/regional-support-offices) offices of the UN-SPIDER program.
 
