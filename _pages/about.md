@@ -21,7 +21,7 @@ Projects I have been working on recently:<br>
   - *Main developer and project lead* - **Development of DEWS Decision Support System**, to face or minimize the impacts of forest fires in Central and South America, Organized by the United Nations Office for Outer Space Affairs[UNOOSA](https://www.unoosa.org/).
   - *CAL/Val Team* - [**FAC Satellite Capabilities in Antarctica**](https://www.fac.mil.co/facsat-1-un-a%C3%B1o-en-el-espacio), the research project for Calibration of Optical Systems Cubesat: Factsat-1 that responsible for calibrating optical spectrometer systems at the Earth Observation Center group of [AIr Force of Colombia - FAC](https://www.fac.mil.co/). *(in collaboration with <a href="https://ciaf.igac.gov.co/">CIAF</a> and <a href="https://minciencias.gov.co/">MINCIENCIAS.</a>)*<br>
 
-- PhD research
+- Postdoctoral researcher
 ------
 I finished a [PhD at the Faculty of Geography at University of Alcalá , Alcala de Henares, Madrid](https://geogra.uah.es/?phase=1&subpage=aims&subprojectid=1013), in collaboration with [GITA research Grup](https://geogra.uah.es/gita/) and [Earth Observation Group for the Quantitative Dynamics of the Biosphere](http://www.upm.es/observatorio/vi/index.jsp?pageac=grupo.jsp&idGrupo=640) of [Polytechnic University of Madrid](https://www.upm.es/),. My research focuses on analysis of changes in the structure of the landscape by forest fires by detection, and how we can support this with the Big Data technologies, and cloud computing. I am interested in how big data technologies like Google Earth Engine or Sentinel Playground can be leveraged to provide efficient cloud geospatial data services
 it is a methodology.
