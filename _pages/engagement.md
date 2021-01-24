@@ -5,7 +5,7 @@ title: "Current Research and Projects"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 author_profile: true
 ---
-RedLaTIF network
+Wildfires management training in Google Earth Engine platform - GEE
 ------
 <br/><img src='/images/training_.PNG'>
 
