@@ -22,6 +22,7 @@ Landslide detection for rapid Mapping Using Sentinel 2
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+    </div>
 
 The landslide and mass removal processes that occurred in the southern area of the state of Oaxaca in 2020 were analyzed for the area of La Soledad using Sentinel-2 optical imagery, radar image analysis and digital terrain models (DTM). A specific algorithm was developed to establish a model for automatic extraction of the traces of the ground movements by using the Bare Soil Index (BSI) at two different times. See the post on [Mediun](https://alexanderariza.medium.com/landslide-detection-for-rapid-mapping-using-sentinel-2-622033d4ce21).<br>
 The results allow us to extract the shapes of the landslides in the terrain and to calculate their direction, this methodology allows extracting and characterizing landslides processes from Sentinel-2 satellite images. The [algorithm](https://custom-scripts.sentinel-hub.com/sentinel-2/landslide_detection_rapid_mapping/) is part of Custom Script Contest” of the COPERNICUS program by the European Space Agency - ESA), in coordination with the European Commission, managed by the Euro Data Cube group.
