@@ -31,4 +31,11 @@ Landslides on Bared Soil Index
 I am a co-founder and currently member of the NGO based [IO-Star](https://alexanderariza.github.io/sortzen.geo.github.io/). We will work toward the sustained availability of satellite and ground observations, as well as other sources of data and information in support of Disaster Risk Reduction and management. The ultimate goal of this proposed Synergy Framework is to support countries all over the world towards a sustainable process to address their DRR requirements.<br>
 A number of partners involved on a global scale in space technologies want to reaffirm their strong interest in addressing synergies to better respond to the requirements established in the post-2020 framework.
 
-</script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/c27d8f249f414ef0b24ba17238fde60b/embed?autospin=0.2&amp;autostart=1&amp;preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_theme=dark&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/oxo-c27d8f249f414ef0b24ba17238fde60b?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">OXO</a>
+        by <a href="https://sketchfab.com/alex_ariza?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">alex_ariza</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
