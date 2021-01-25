@@ -16,6 +16,9 @@ Workshops & Webinars
   - Sistema de Gestión y Monitoreo en incendios forestales<br>
   - Cartografía de Incendios Aplicaciones en la Nube<br>
 
+- **<a href='https://geogra.uah.es/simposio20/' target='_blank'>III Symposium of Research in TIG of the UAH</a>** - *forum for debate on the multidisciplinary applicability of GIT in different lines of research.November 25-26, 2020,*<br>
+  - Experiences, challenges and opportunities facing the future of Geospatial development **<a href='https://geogra.uah.es/simposio20/wp-content/uploads/2020/12/Conferencia-Dr-Ariza.mp4.mp4' target='_blank'>[Recording]</a>**<br>
+ 
 - **<a href='http://www.un-spider.org/news-and-events/news/un-spider-conduct-webinar-role-satellites-forest-fire-management' target='_blank'>role of satellites for forest fire management</a>** - **<a href='https://www.youtube.com/watch?v=Ad-lMDamch8&feature=youtu.be' target='_blank'>[Recording]</a>**  *Short Course - 10 June 2020*<br><br/><img src='/images/talk2.png'>
   - “Introduction to Satellite Products and Services for the Management of Forest Fires”<br> 
 Introduction to practical worfklows and a case study on Centroamerica forest fires based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br>
