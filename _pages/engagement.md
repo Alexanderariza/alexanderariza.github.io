@@ -46,7 +46,7 @@ Class-based programming
 <div class="sketchfab-embed-wrapper">
     <div style="text-align:center;">
 <iframe frameborder="0" class="juxtapose" width="100%" height="587.3684210526316" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5456e1a8-5ea2-11eb-83c8-ebb5d6f907df"></iframe>
-    </div></div>
+</div></div>
 A project that uses the Integration of methods based on satellite remote sensing into current maritime monitoring. The idea is trying to support strategies that could help tackle the problem of illegal fishing in developing countries.<br> 
 
 This method based on Class-based programming (OBIA) and thermal analysis to distinguish fishing and non-fishing vessels. The script classifier takes as input the vessel’s length, longitude, and latitude, its distance to the nearest shore, and other parameters. These initial results suggest that our approach could help monitor the intensification or reduction of illegal fishing activity, which is critical in the context of the global overfishing problem.
