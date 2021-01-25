@@ -4,8 +4,9 @@ main:
 
 
   - title: "Research & projects"
-    url: /engagement/ 
-      - title: "Talkmap"
+    url: /engagement/
+    
+  - title: "Talkmap"
     url: /portfolio/ 
   
   - title: "Workshops & Talks"
