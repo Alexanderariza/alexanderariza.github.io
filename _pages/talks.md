@@ -38,11 +38,11 @@ Introduction to practical worfklows and a case study on Centroamerica forest fir
 Conference talks
 ------
 **2020**
-- **<a href='https://www.dimar.mil.co/' target='_blank'>1ª Workshop for vessel monitoring through the use of satellite images</a>** - *Directorate-General Maritime Affairs -DIMAR. A project to establish and enhance the state-of-the-art in operational ship detection from space. Dicember 17, 2020,*<br> 
+- **<a href='https://www.dimar.mil.co/' target='_blank'>1ª Workshop for vessel monitoring through the use of satellite images</a>** - *Directorate-General Maritime Affairs -DIMAR. A project to establish and enhance the state-of-the-art in operational ship detection from space. Dicember 17, 2020.*<br> 
 
-- **<a href='http://geografia.univalle.edu.co/maestria-en-geografia' target='_blank'> Geography Master program of the Department of geography, Universidad del Valle</a>** - *Geospatial Data: Remote sensing at the service of risk and disaster management. Cali - Colombia. December 5, 2020*<br>
+- **<a href='http://geografia.univalle.edu.co/maestria-en-geografia' target='_blank'> Geography Master program of the Department of geography, Universidad del Valle</a>** - *Geospatial Data: Remote sensing at the service of risk and disaster management. Cali - Colombia. December 5, 2020.*<br>
 
 **2019**
-- <a href='http://secforestales.org/sites/default/files/archivos/agenda_11junio_secf_spcf.pdf' target='_blank'</a> - *Monitoring of post-fire plant covers in Mediterranean environments: the case of the Pantano de San Juan fire in 2003.*</a><br> Jornadas INIA. Madrid - june 2019<br>
+- <a href='http://secforestales.org/sites/default/files/archivos/agenda_11junio_secf_spcf.pdf'> target='_blank'</a> - *Monitoring of post-fire plant covers in Mediterranean environments: the case of the Pantano de San Juan fire in 2003.*</a><br> Jornadas INIA. Madrid - june 2019.<br>
 
 
