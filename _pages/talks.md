@@ -8,7 +8,7 @@ author_profile: true
 You find a selection of the most recent workshops / conference talks below.
 
 
-Workshops
+Workshops & Webinars
 ------
 **2020**
 - **<a href='http://www.un-spider.org/news-and-events/news/un-spider-webinar-showcases-methods-map-burn-severity-after-forest-fire' target='_blank'>MAPEO DE LA SEVERIDAD EN INCENDIOS FORESTALES 2020</a>** - *UN-SPIDER webinar showcases methods to map burn severity after forest fire. April & May 2020*<br>
