@@ -31,10 +31,7 @@ Introduction to practical worfklows and a case study on Centroamerica forest fir
   - Fire Mapping Cloud Applications<br>
  
 **2019**
-- <a href="https://atmostraining.info/" target="_blank">Accessing and processing atmospheric composition data with Python and Jupyter notebooks</a><br>*First Joint Training Course on Atmospheric Composition - Cluj-Napoca, Romania - 4-8 November 2019*<br>Two practical sessions introduced course participants to different types of atmospheric composition data from AC-SAF, Sentinel-5P and CAMS and gave hands-on examples how the data can be handled, processed and visualized with Python and Jupyter Notebooks.<br><br>
-- <a href="https://www.eventsforce.net/eumetsat/media/uploaded/EVEUMETSAT/event_5/CALMET_EUMETCAL_Conference_-_Programme.pdf" target="_blank">Earth Observations of Atmospheric Composition: priorities and methods for training and user uptake</a> - *CALMet XIII / Eumetcal Conference - Darmstadt, Germany - 19 September 2019*<br>This workshop presentend the first version of the Python learning tool LTPy for Atmospheric Composition data.<br><br>
-- <a href="https://github.com/jwagemann/2019_egu_workshop_jupyter_notebooks" target="_blank">Interactive analysis of Big Earth Data with Jupyter Notebooks</a> - *European Geosciences Union 2019 - Vienna, Austria - 10 April 2019*<br>This workshop was given at EGU 2019 and covers an introduction to Jupyter Notebooks, how to access large volumes of Big Earth Data from different data repositories and an example how to set up an interactive data workflow with Jupyter widgets. <br><br>
-- <a href="https://docs.google.com/presentation/d/1pEr9E16EJZ_I2wLBJnsCpOM4gSP4tz3s0s43N7DxuZk/edit?usp=sharing" target="_blank">Geospatial data and analysis using R</a> - *R Ladies London Meetup - London, UK - April 2019*<br>This workshop was held during the R-Ladies London meetup in April 2019 and gave an introduction to geospatial data analysis in R. The workshop was given in collaboration with Claudia Vitolo.
+- <a href="https://www.facebook.com/events/816478625451412/">II international congress ICT for the Amazon Type of event</a><br>*Universidad de la Amazonia.<br><br> *Technological Innovation for the Development of the Amazon. Universidad de la Amazonia. Florencia - Colombia. November 27, 2019. *
 
 
 Conference talks
