@@ -13,7 +13,6 @@ Workshops & Webinars
 - **<a href='https://www.dimar.mil.co/' target='_blank'>1ª Workshop for vessel monitoring through the use of satellite images</a>** - *A project to establish and enhance the state-of-the-art in operational ship detection from space. Dicember 17, 2020,*<br> 
 
 - **<a href='http://geografia.univalle.edu.co/maestria-en-geografia' target='_blank'> Geography Master program of the Department of geography, Universidad del Valle</a>** - *Geospatial Data: Remote sensing at the service of risk and disaster management. Cali - Colombia. December 5, 2020*<br>
-Daily introductions to practical worfklows and case studies for fire monitoring based on Jupyter notebooks.<br><br>
 
 - **<a href='https://geogra.uah.es/simposio20/' target='_blank'>III Symposium of Research in Geographic Information Technologies - TIG of the UAH</a>** - *forum for debate on the multidisciplinary applicability of GIT in different lines of research. Madrid, Spain. November 25-26, 2020,*<br>
   - Experiences, challenges and opportunities facing the future of Geospatial development **<a href='https://geogra.uah.es/simposio20/wp-content/uploads/2020/12/Conferencia-Dr-Ariza.mp4.mp4' target='_blank'>[Recording]</a>**<br>
@@ -37,7 +36,6 @@ Introduction to practical worfklows and a case study on Centroamerica forest fir
  
 - **<a href='https://training.eumetsat.int/course/view.php?id=360' target='_blank'>UN-SPIDER webinar: User workshop and training on Fire Monitoring</a>** - *Webinar series - 11-18 May 2020*<br>
 Daily introductions to practical worfklows and case studies for fire monitoring based on Jupyter notebooks.<br><br>
-
 
 **2019**
 - <a href="https://atmostraining.info/" target="_blank">Accessing and processing atmospheric composition data with Python and Jupyter notebooks</a><br>*First Joint Training Course on Atmospheric Composition - Cluj-Napoca, Romania - 4-8 November 2019*<br>Two practical sessions introduced course participants to different types of atmospheric composition data from AC-SAF, Sentinel-5P and CAMS and gave hands-on examples how the data can be handled, processed and visualized with Python and Jupyter Notebooks.<br><br>
