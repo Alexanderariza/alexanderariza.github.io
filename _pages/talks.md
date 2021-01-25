@@ -22,7 +22,7 @@ Introduction to practical worfklows and a case study on Centroamerica forest fir
   - Introduction to satellite atmospheric observations of fire emissions<br> 
   - State-of-the-art Copernicus operational data sets for monitoring smoke and fire emissions to the atmosphere<br> 
   - UN-SPIDER Recommended Practice for burn severity mapping<br> 
-  - Case studies<br> 
+  - Case studies:<br> 
     - Maya Reserve of Pete (Guatemala)<br> 
     - Chernobyl (Ukraine)<br>
 
