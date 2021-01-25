@@ -43,7 +43,11 @@ Interactive fire mapping with geemap: a Python package for forests fire monitori
 
 Class-based programming
 ------
-<br/><iframe frameborder="0" class="juxtapose" width="100%" height="587.3684210526316" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5456e1a8-5ea2-11eb-83c8-ebb5d6f907df"></iframe>
+<div class="sketchfab-embed-wrapper">
+    <div style="text-align:center;">
+<iframe frameborder="0" class="juxtapose" width="100%" height="587.3684210526316" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5456e1a8-5ea2-11eb-83c8-ebb5d6f907df"></iframe>
+    </div>
+</div>
 
 I am a co-founder and currently member of the NGO based [IO-Star](https://alexanderariza.github.io/sortzen.geo.github.io/). We will work toward the sustained availability of satellite and ground observations, as well as other sources of data and information in support of Disaster Risk Reduction and management. The ultimate goal of this proposed Synergy Framework is to support countries all over the world towards a sustainable process to address their DRR requirements.<br>
 A number of partners involved on a global scale in space technologies want to reaffirm their strong interest in addressing synergies to better respond to the requirements established in the post-2020 framework.
