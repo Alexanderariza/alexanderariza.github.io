@@ -55,6 +55,6 @@ IO-Star Iniciative
 ------
 <br/><img src='/images/IO_STAR.JPG'>
 
-I am a co-founder and current member of the [IO-Star](https://alexanderariza.github.io/sortzen.geo.github.io/) project. An initiative that tries to work toward the sustained availability of satellite images, ground observations, and other sources of data and information to support goals proposed in the climate change agreements and Sendai Framework for Disaster Risk Reduction RRD 2015-2030.<br>
+I am a co-founder and current member of the [IO-Star](https://alexanderariza.github.io/sortzen.geo.github.io/) project. An initiative that tries to work toward the sustained availability of satellite images, ground observations, and other sources of data and information to support goals proposed in the climate change agreements and [Sendai Framework](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030#:~:text=The%20Sendai%20Framework%20for%20Disaster,Investing%20in%20disaster%20reduction%20for) for Disaster Risk Reduction RRD 2015-2030.<br>
 
 The main goal of this project is to support vulnerable countries all over the world towards a sustainable process to address their DRR requirements. With the support of a network of voluntary professionals, we tried to promote knowledge and applied research in young students of schools and universities in Latin America and Africa, to motivate future professionals in the geospatial area for the benefit of these regions.
