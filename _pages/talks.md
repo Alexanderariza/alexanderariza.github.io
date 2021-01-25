@@ -10,7 +10,7 @@ Workshops & Webinars
 ------
 **2020**
 
--**<a href='https://www.dimar.mil.co/' target='_blank'>1ª Workshop for vessel monitoring through the use of satellite images</a>** - *Project to establish and enhance the state-of-the-art in operational ship detection from space. Dicember 17, 2020,*<br> 
+- **<a href='https://www.dimar.mil.co/' target='_blank'>1ª Workshop for vessel monitoring through the use of satellite images</a>** - *A project to establish and enhance the state-of-the-art in operational ship detection from space. Dicember 17, 2020,*<br> 
 
 - **<a href='https://geogra.uah.es/simposio20/' target='_blank'>III Symposium of Research in Geographic Information Technologies - TIG of the UAH</a>** - *forum for debate on the multidisciplinary applicability of GIT in different lines of research.November 25-26, 2020,*<br>
   - Experiences, challenges and opportunities facing the future of Geospatial development **<a href='https://geogra.uah.es/simposio20/wp-content/uploads/2020/12/Conferencia-Dr-Ariza.mp4.mp4' target='_blank'>[Recording]</a>**<br>
