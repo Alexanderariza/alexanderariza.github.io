@@ -10,15 +10,15 @@ Workshops & Webinars
 ------
 **2020**
 
-- **<a href='https://geogra.uah.es/simposio20/' target='_blank'>III Symposium of Research in TIG of the UAH</a>** - *forum for debate on the multidisciplinary applicability of GIT in different lines of research.November 25-26, 2020,*<br>
+- **<a href='https://geogra.uah.es/simposio20/' target='_blank'>III Symposium of Research in Geographic Information Technologies - TIG of the UAH</a>** - *forum for debate on the multidisciplinary applicability of GIT in different lines of research.November 25-26, 2020,*<br>
   - Experiences, challenges and opportunities facing the future of Geospatial development **<a href='https://geogra.uah.es/simposio20/wp-content/uploads/2020/12/Conferencia-Dr-Ariza.mp4.mp4' target='_blank'>[Recording]</a>**<br>
 
 - **<a href='https://www.minagricultura.gov.co/ministerio/direcciones/Paginas/Encuentros.aspx' target='_blank'>8th CIO Meeting of the agricultural sector</a>** - *Ministry of Agriculture: A space for the implementation of Geographical Information Technologies TIG and EO Earth Observation in the field of agricultural management. Friday, November 6, 2020,*<br>
   - Geographical information technologies - TIG. as a tool for sustainable agricultural development  - **<a href='https://minagriculturaco-my.sharepoint.com/personal/carlos_moreno_minagricultura_gov_co/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9taW5hZ3JpY3VsdHVyYWNvLW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2Nhcmxvc19tb3Jlbm9fbWluYWdyaWN1bHR1cmFfZ292X2NvL0VpX1NsQWtacVF4TGxnZGZqZDE5YlNJQjhRVUExUnJ2MEdsdzZRaDNKb3hZVUE%5FcnRpbWU9c0NXQ0xIakIyRWc&id=%2Fpersonal%2Fcarlos%5Fmoreno%5Fminagricultura%5Fgov%5Fco%2FDocuments%2FPresentaciones%2FCIO%2F20201106%20Octavo%20Encuentro%2FMemorias%20Encuentro%208vo%20Encuentro%20CIO%2FGrabacion%2Emp4&parent=%2Fpersonal%2Fcarlos%5Fmoreno%5Fminagricultura%5Fgov%5Fco%2FDocuments%2FPresentaciones%2FCIO%2F20201106%20Octavo%20Encuentro%2FMemorias%20Encuentro%208vo%20Encuentro%20CIO' target='_blank'>[Recording]</a>**<br><br/><img src='https://www.minagricultura.gov.co/ministerio/direcciones/Documents/EncuentrosCio/banner-encuentros.png'>
 
-- **<a href='http://www.un-spider.org/news-and-events/news/un-spider-webinar-showcases-methods-map-burn-severity-after-forest-fire' target='_blank'>MAPEO DE LA SEVERIDAD EN INCENDIOS FORESTALES 2020</a>** - *UN-SPIDER webinar showcases methods to map burn severity after forest fire. April & May 2020*<br>
-  - Sistema de Gestión y Monitoreo en incendios forestales<br>
-  - Cartografía de Incendios Aplicaciones en la Nube<br>
+- **<a href='http://www.un-spider.org/news-and-events/news/un-spider-webinar-showcases-methods-map-burn-severity-after-forest-fire' target='_blank'>UN-SPIDER webinar showcases methods to map burn severity after forest fire</a>** - *UN-SPIDER webinar showcases methods to map burn severity after forest fire. April & May 2020*<br>
+  - Management and Monitoring System in forest fires<br>
+  - Fire Mapping Cloud Applications<br>
  
 - **<a href='http://www.un-spider.org/news-and-events/news/un-spider-conduct-webinar-role-satellites-forest-fire-management' target='_blank'>role of satellites for forest fire management</a>** - **<a href='https://www.youtube.com/watch?v=Ad-lMDamch8&feature=youtu.be' target='_blank'>[Recording]</a>**  *Short Course - 10 June 2020*<br><br/><img src='/images/talk2.png'>
   - “Introduction to Satellite Products and Services for the Management of Forest Fires”<br> 
