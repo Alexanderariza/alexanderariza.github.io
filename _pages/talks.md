@@ -4,15 +4,16 @@ title: "Workshops & Talks"
 author_profile: true
 ---
 
-
-You find a selection of the most recent workshops / conference talks below.
-
+These are some of the most recent workshops, webinars and conference talks.
 
 Workshops & Webinars
 ------
 **2020**
+- **<a href='https://www.minagricultura.gov.co/ministerio/direcciones/Paginas/Encuentros.aspx' target='_blank'>8th CIO Meeting of the agricultural sector</a>** - *Ministry of Agriculture: A space for the implementation of Geographical Information Technologies TIG and EO Earth Observation in the field of agricultural management.April & May 2020*<br>
+  - Geographical information technologies - TIG. as a tool for sustainable agricultural development<br><br/><img src='https://www.minagricultura.gov.co/ministerio/direcciones/Documents/EncuentrosCio/banner-encuentros.png'>
+
 - **<a href='http://www.un-spider.org/news-and-events/news/un-spider-webinar-showcases-methods-map-burn-severity-after-forest-fire' target='_blank'>MAPEO DE LA SEVERIDAD EN INCENDIOS FORESTALES 2020</a>** - *UN-SPIDER webinar showcases methods to map burn severity after forest fire. April & May 2020*<br>
-  - Sistema de Gestión y Monitoreo en incendios forestales <br>
+  - Sistema de Gestión y Monitoreo en incendios forestales<br>
   - Cartografía de Incendios Aplicaciones en la Nube<br>
 
 - **<a href='http://www.un-spider.org/news-and-events/news/un-spider-conduct-webinar-role-satellites-forest-fire-management' target='_blank'>role of satellites for forest fire management</a>** - **<a href='https://www.youtube.com/watch?v=Ad-lMDamch8&feature=youtu.be' target='_blank'>[Recording]</a>**  *Short Course - 10 June 2020*<br><br/><img src='/images/talk2.png'>
