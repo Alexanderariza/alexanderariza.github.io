@@ -31,9 +31,9 @@ Introduction to practical worfklows and a case study on Centroamerica forest fir
   - Fire Mapping Cloud Applications<br>
  
 **2019**
-- <a href="https://www.facebook.com/events/816478625451412/">II international congress ICT for the Amazon Type of event</a><br>*Universidad de la Amazonia.<br><br>*Technological Innovation for the Development of the Amazon: "Trends in Geographic Information Technologies, challenges for development".* Universidad de la Amazonia. Florencia - Colombia. November 27, 2019.
+- <a href="https://www.facebook.com/events/816478625451412/">II international congress ICT for the Amazon Type of event</a><br>*Universidad de la Amazonia. *Technological Innovation for the Development of the Amazon: "Trends in Geographic Information Technologies, challenges for development".* Universidad de la Amazonia. Florencia - Colombia. November 27, 2019.<br>
 
-- <a href="https://razoncartografica.files.wordpress.com/2019/03/8scmig_circular_i.pdf">VIII COLOMBO-MEXICAN Symposium on Geographical Research</a><br>*Universidad UPTC and Agustín Codazzi Geographical Institute.*<br><br> "Geographic knowledge of the global south".* Bogota - Colombia. Octuber 12, 2019.
+- <a href="https://razoncartografica.files.wordpress.com/2019/03/8scmig_circular_i.pdf">VIII COLOMBO-MEXICAN Symposium on Geographical Research</a> *Universidad UPTC and Agustín Codazzi Geographical Institute.*<br><br> "Geographic knowledge of the global south".* Bogota - Colombia. Octuber 12, 2019.<br>
 
 Conference talks
 ------
