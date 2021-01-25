@@ -5,6 +5,8 @@ main:
 
   - title: "Research & projects"
     url: /engagement/ 
+      - title: "Talkmap"
+    url: /portfolio/ 
   
   - title: "Workshops & Talks"
     url: /talks/
@@ -12,5 +14,3 @@ main:
   - title: "Publications"
     url: /publications/   
     
-  - title: "Talkmap"
-    url: /portfolio/ 
