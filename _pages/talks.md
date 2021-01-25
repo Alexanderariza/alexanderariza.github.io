@@ -31,9 +31,9 @@ Introduction to practical worfklows and a case study on Centroamerica forest fir
   - Fire Mapping Cloud Applications<br>
  
 **2019**
-- <a href="https://www.facebook.com/events/816478625451412/">II international congress ICT for the Amazon Type of event</a><br>*Universidad de la Amazonia.<br><br> *Technological Innovation for the Development of the Amazon: "Trends in Geographic Information Technologies, challenges for development". Universidad de la Amazonia. Florencia - Colombia. November 27, 2019.*
+- <a href="https://www.facebook.com/events/816478625451412/">II international congress ICT for the Amazon Type of event</a><br>*Universidad de la Amazonia.<br><br>*Technological Innovation for the Development of the Amazon: "Trends in Geographic Information Technologies, challenges for development".* Universidad de la Amazonia. Florencia - Colombia. November 27, 2019.
 
-- <a href="https://razoncartografica.files.wordpress.com/2019/03/8scmig_circular_i.pdf">VIII COLOMBO-MEXICAN Symposium on Geographical Research</a><br>*Universidad UPTC and Agustín Codazzi Geographical Institute.*<br><br> "Geographic knowledge of the global south". Bogota - Colombia. Octuber 12, 2019.*
+- <a href="https://razoncartografica.files.wordpress.com/2019/03/8scmig_circular_i.pdf">VIII COLOMBO-MEXICAN Symposium on Geographical Research</a><br>*Universidad UPTC and Agustín Codazzi Geographical Institute.*<br><br> "Geographic knowledge of the global south".* Bogota - Colombia. Octuber 12, 2019.
 
 Conference talks
 ------
@@ -43,5 +43,6 @@ Conference talks
 - **<a href='http://geografia.univalle.edu.co/maestria-en-geografia' target='_blank'> Geography Master program of the Department of geography, Universidad del Valle</a>** - *Geospatial Data: Remote sensing at the service of risk and disaster management. Cali - Colombia. December 5, 2020*<br>
 
 **2019**
-- <a href='http://secforestales.org/sites/default/files/archivos/agenda_11junio_secf_spcf.pdf' target='_blank'</a>* - Monitoring of post-fire plant covers in Mediterranean environments: the case of the Pantano de San Juan fire in 2003</a><br>*Jornadas INIA. Madrid - june 2019*<br>
+- <a href='http://secforestales.org/sites/default/files/archivos/agenda_11junio_secf_spcf.pdf' target='_blank'</a> - *Monitoring of post-fire plant covers in Mediterranean environments: the case of the Pantano de San Juan fire in 2003.*</a><br> Jornadas INIA. Madrid - june 2019<br>
+
 
