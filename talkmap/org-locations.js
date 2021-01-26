@@ -18,8 +18,8 @@ var addressPoints = [
     -82.1030537
   ],
   [
-    "Washington, EEUU",
-    47.2548307,
-    -123.1255327
+    "Modeling of changes in the amazon forest, due to the implementation of energy projects in the Cordillera De Los Pichachos National Natural Park, Caqueta, Colombia",
+    4.0064629,
+    -100.4658329
   ]
 ];
