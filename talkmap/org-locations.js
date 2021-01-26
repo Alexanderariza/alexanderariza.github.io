@@ -20,7 +20,7 @@ var addressPoints = [
     -74.9602575
   ],
   [
-    "Analysis of changes in forest structure due to forest fires, Ciudad Real, Spain",
+    "Characterization of surface solar radiation, for the establishment of solar thermal projects, Ciudad Real, Spain",
     39.1779485,
     -3.3147037
   ],
