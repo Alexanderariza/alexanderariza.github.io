@@ -10,7 +10,7 @@ var addressPoints = [
     -74.2478938
   ],
   [
-    "Archipielago de San Andres y Providencia, Colombia",
+    "Morphological characterization using worldview 3 images - Archipielago de San Andres y Providencia, Colombia",
     12.9381592,
     -82.1030537
   ],
