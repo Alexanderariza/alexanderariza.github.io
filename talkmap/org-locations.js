@@ -25,7 +25,7 @@ var addressPoints = [
     -3.3147037
   ],
   [
-    "Methodological instruments for fire analysis through remote sensing in Colombia and Argentina, Cordoba, Argentina",
+    "Methodological instruments for Wildfires analysis through remote sensing in Colombia and Argentina, Cordoba, Argentina",
     -31.4174032,
      -64.1702052
   ],
