@@ -8,7 +8,7 @@ var addressPoints = [
     "Bogota, CO",
     4.6482837,
     -74.2478938
-  ],
+  ].bindPopup("<h1>Casa Espanya</h2><p>La Casa Espanya, o Casa Llunell, és un casal gòtic de l'Hospitalet de Llobregat (Barcelonès), declarat bé cultural d'interès nacional.</p>",
   [
     "Morphological characterization using worldview 3 images - Archipielago de San Andres y Providencia, Colombia",
     12.9381592,
