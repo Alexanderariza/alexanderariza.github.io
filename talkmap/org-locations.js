@@ -29,4 +29,10 @@ var addressPoints = [
     -31.4174032,
      -64.1702052
   ],
+  [
+    "Characterization of the mangrove forest using Sentinel 1 radar images, Mexico DF, Mexico",
+      19.3011991,
+     -99.1883805
+  ],  
+
   ]
