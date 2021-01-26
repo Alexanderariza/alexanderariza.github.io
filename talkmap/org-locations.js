@@ -19,4 +19,8 @@ var addressPoints = [
     4.0064629,
     -100.4658329
   ]
-];
+    [
+    "Analysis of changes in forest structure due to forest fires, Ciudad Real, Spain",
+    39.1779485,
+    -3.3147037
+  ],
