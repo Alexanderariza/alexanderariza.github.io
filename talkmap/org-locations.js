@@ -21,7 +21,6 @@ var addressPoints = [
   ],
   [
     "Analysis of changes in forest structure due to forest fires, Ciudad Real, Spain",
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/M2kSJbLbIgQ" frameborder="0" allowfullscreen></iframe> 
     39.1779485,
     -3.3147037
   ],
