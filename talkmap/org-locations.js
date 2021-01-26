@@ -5,18 +5,18 @@ var addressPoints = [
     -4.4481758
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Bogota, CO",
+    4.6482837,
+    -74.2478938
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Archipielago de San Andres y Providencia, Colombia",
+    12.9381592,
+    -82.1030537
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Washington, EEUU",
+    47.2548307,
+    -123.1255327
   ]
 ];
