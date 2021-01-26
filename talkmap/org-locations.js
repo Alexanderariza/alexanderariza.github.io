@@ -5,7 +5,7 @@ var addressPoints = [
     -4.4481758
   ],
   [
-    "Bogota, CO, <h1>Casa Espanya</h2><p><ul><li><a href=https://www.youtube.com/>listing-markers example</a></li><li><a href=https://www.youtube.com/>two-sidebars example</a></li></ul>La Casa Espanya, o Casa Llunell, és un casal gòtic de l'Hospitalet de Llobregat Barcelonès, declarat bé cultural d'interès nacional.</p>",
+    "Bogota, CO, <h1>Casa Espanya</h2><p><img src=http://www.fao.org/3/y7220e/y7220e.jpg alt="" width="50%" height="50%" /><ul><li><a href=https://www.youtube.com/>listing-markers example</a></li><li><a href=https://www.youtube.com/>two-sidebars example</a></li></ul>La Casa Espanya, o Casa Llunell, és un casal gòtic de l'Hospitalet de Llobregat Barcelonès, declarat bé cultural d'interès nacional.</p>",
     4.6482837,
     -74.2478938
   ],
