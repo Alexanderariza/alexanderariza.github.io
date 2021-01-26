@@ -18,9 +18,9 @@ var addressPoints = [
     "Modeling of changes in the amazon forest, due to the implementation of energy projects in the Cordillera De Los Pichachos National Natural Park, Caqueta, Colombia",
     4.0064629,
     -100.4658329
-  ]
+  ],
     [
     "Analysis of changes in forest structure due to forest fires, Ciudad Real, Spain",
     39.1779485,
     -3.3147037
-  ],
+  ]
