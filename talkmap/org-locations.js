@@ -1,9 +1,6 @@
 var addressPoints = [
   [
-    "Pantano de San Juan. Madrid, Spain",
-    <ul>
-    <p>Analisis de la severidad</p>
-       </ul>
+    "Analysis of changes in forest structure due to forest fires, Pantano de San Juan. Madrid, Spain",
     40.3940029,
     -4.4481758
   ],
