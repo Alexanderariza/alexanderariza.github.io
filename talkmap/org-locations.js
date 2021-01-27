@@ -16,9 +16,7 @@ var addressPoints = [
   ],
   [
     "<h1>Modeling of changes in the amazon forest, due to the implementation of energy projects in the Cordillera De Los Pichachos National Natural Park</h2> <p> Caqueta, CO. <img src=https://www.hajosiewer.de/wp-content/uploads/Paramo-Oceta.jpg style=width:100px;> <ul><li><a href=https://www.parquesnacionales.gov.co/portal/es/parques-nacionales/parque-nacional-natural-cordillera-de-los-picachos-2/ target=_blank>Parque Nacional Natural Cordillera de Los Picachos</a></li></ul> This project analyzed the visualization and modeling of land use changes over time to be carried out by summarizing the total amount, types and places of change, using the Markov chains how a potential descriptive and predictive model for the analysis of land-use change and for future distributions or assignments of uses.</p>",
-
-    "Modeling of changes in the amazon forest, due to the implementation of energy projects in the Cordillera De Los Pichachos National Natural Park, Caqueta, Colombia",
-    2.7397693,
+   2.7397693,
     -74.9602575
   ],
   [
@@ -27,7 +25,7 @@ var addressPoints = [
     -3.3147037
   ],
   [
-    "Methodological instruments for Wildfires analysis through remote sensing in Colombia and Argentina, Cordoba, Argentina",
+   "<h1>Methodological instruments for Wildfires analysis through remote sensing in Colombia and Argentina</h2> <p> Cordoba, Argentina. <img src=https://inta.gob.ar/sites/default/files/imagenes/mixta1.jpg style=width:100px;> <ul><li><a href=https://inta.gob.ar/noticias/cooperacion-cientifica-y-tecnica-entre-argentina-y-colombia target=_blank>Scientific and Technical Cooperation between Argentina and Colombia</a></li></ul> A project that developed Methodological Instruments for the analysis of fires through remote sensing in Colombia and Argentina - INTA and the Center for Research and Development in Geographic Information (CIAF office) of the Agustín Codazzi Geographical Institute (IGAC) of Colombia.</p>",
     -31.4174032,
      -64.1702052
   ],
