@@ -5,7 +5,7 @@ var addressPoints = [
     -4.4481758
   ],
   [
-    "<h1>Applying the Land Cover Classification System in Colombia </h2> <p> Bogota, CO, <img src=https://un-spider.org/sites/default/files/130723_IGACLCCS.jpg style=width:100px;> <ul><li><a href=https://un-spider.org/fr/node/6757>LCCS project</a></li></ul> A project for the adaptation of the FAO methodology LCCS - Land Cover Classification System, as an alternative classification system for natural resources management in Colombia.</p>",
+    "<h1>Applying the Land Cover Classification System in Colombia </h2> <p> Bogota, CO, <img src=https://un-spider.org/sites/default/files/130723_IGACLCCS.jpg style=width:100px;> <ul><li><a href=https://un-spider.org/fr/node/6757 target=_blank>LCCS project</a></li></ul> A project for the adaptation of the FAO methodology LCCS - Land Cover Classification System, as an alternative classification system for natural resources management in Colombia.</p>",
     4.6482837,
     -74.2478938
   ],
