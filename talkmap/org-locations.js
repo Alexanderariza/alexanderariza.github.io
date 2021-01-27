@@ -25,7 +25,7 @@ var addressPoints = [
     -3.3147037
   ],
   [
-   "<h1>Methodological instruments for Wildfires analysis through remote sensing in Colombia and Argentina</h2> <p> Cordoba, Argentina. <img src=https://inta.gob.ar/sites/default/files/imagenes/mixta1.jpg style=width:100px;> <ul><li><a href=https://inta.gob.ar/noticias/cooperacion-cientifica-y-tecnica-entre-argentina-y-colombia target=_blank>Scientific and Technical Cooperation between Argentina and Colombia</a></li></ul> A project that developed Methodological Instruments for the analysis of fires through remote sensing in Colombia and Argentina - INTA and the Center for Research and Development in Geographic Information (CIAF office) of the Agustín Codazzi Geographical Institute (IGAC) of Colombia.</p>",
+   "<h1>Methodological instruments for Wildfires analysis through remote sensing in Colombia and Argentina</h2> <p> Cordoba, Argentina. <img src=https://inta.gob.ar/sites/default/files/imagenes/mixta1.jpg style=width:100px;> <ul><li><a href=https://inta.gob.ar/noticias/cooperacion-cientifica-y-tecnica-entre-argentina-y-colombia target=_blank>Scientific and Technical Cooperation between Argentina and Colombia</a></li></ul> A project that developed Methodological Instruments for the analysis of fires through remote sensing in Colombia and Argentina -INTA- and the Center for Research and Development in Geographic Information -CIAF- of the Agustín Codazzi Geographical Institute -IGAC- of Colombia.</p>",
     -31.4174032,
      -64.1702052
   ],
