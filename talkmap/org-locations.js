@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Analysis of changes in forest structure due to forest fires, Pantano de San Juan. Madrid, Spain",
+   "<h1>Analysis of changes in forest structure due to forest fires, Pantano de San Juan </h2> <p> Madrid, Spain. <img src=https://www.telemadrid.es/2020/09/03/noticias/madrid/incendio-Cadalso-Cenicientos-mayor-Madrid_2265083479_7933680_1300x731.jpg style=width:100px;> <ul><li><a href=https://ebuah.uah.es/dspace/handle/10017/37276 target=_blank> PhD research</a></li></ul> This work analyzes the changes in the structure of the landscape produced by forest fires, whit landscape metrics, remote sensing techniques, and the use of spectral indices derived from Landsat TM, ETM+, and OLI images.</p>",
     40.3940029,
     -4.4481758
   ],
@@ -20,7 +20,7 @@ var addressPoints = [
     -74.9602575
   ],
   [
-    "Characterization of surface solar radiation, for the establishment of solar thermal projects, Ciudad Real, Spain",
+    "<h1>Characterization of surface solar radiation, for the establishment of solar thermal projects </h2> <p> Ciudad Real, Spain. <img src=https://www.arram.net/ficheros/imagenes/2016_06/minis/1400x506_planta-termosolar-manchasol-3.jpg style=width:100px;> <ul><li><a href=https://www.youtube.com/watch?v=Hx1hEIOC2KI target=_blank> Manchasol 1 & 2 thermosolar</a></li></ul> This project analixed satellite and in-situ data for the identification and characterisation of energy potentials zones to provided acces of implementation of energy system projects and solar resources and electricity generation potentials of possible supply regions.</p>",
     39.1779485,
     -3.3147037
   ],
