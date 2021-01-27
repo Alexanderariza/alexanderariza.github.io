@@ -73,14 +73,14 @@ social:
 
 # Analytics
 analytics:              
-  provider               :  "google"
+  provider               : "google-universal"
   google:
     tracking_id          : "G-HLR51CF3Z0" 
 
 
 # Site Author
 author:
-  name             : " Alexander Ariza"
+  name             : "Alexander Ariza"
   avatar           : "logo.png"
   bio              : "Working on Earth Observations and remote sensing aplicactions"
   location         : "Bonn - Germany"
