@@ -5,7 +5,7 @@ var addressPoints = [
     -4.4481758
   ],
   [
-    "<h1>Applying the Land Cover Classification System in Colombia, </h2> <p> Bogota, CO, <img src=https://image.slidesharecdn.com/concepts7sep2015v2-161115214439/95/land-cover-classification-system-classification-concepts-1-638.jpg?cb=1479246957 style=width:100px;> <ul><li><a href=https://www.researchgate.net/publication/282852020_METODOLOGIAS_BASADAS_EN_SISTEMAS_DE_CLASIFICACION_CORINE-FAO_EN_LOS_ESTUDIOS_DE_LA_COBERTURA_Y_USO_DE_LA_TIERRA_APOYADO_EN_GEOTECNOLOGIAS>listing-markers example</a></li></ul> A project for the adaptation of the FAO methodology LCCS - Land Cover Classification System, as an alternative classification system for natural resources management in Colombia.</p>",
+    "<h1>Applying the Land Cover Classification System in Colombia, </h2> <p> Bogota, CO, <img src=https://un-spider.org/sites/default/files/130723_IGACLCCS.jpg style=width:100px;> <ul><li><a href=https://www.researchgate.net/publication/282852020_METODOLOGIAS_BASADAS_EN_SISTEMAS_DE_CLASIFICACION_CORINE-FAO_EN_LOS_ESTUDIOS_DE_LA_COBERTURA_Y_USO_DE_LA_TIERRA_APOYADO_EN_GEOTECNOLOGIAS>listing-markers example</a></li></ul> A project for the adaptation of the FAO methodology LCCS - Land Cover Classification System, as an alternative classification system for natural resources management in Colombia.</p>",
     4.6482837,
     -74.2478938
   ],
