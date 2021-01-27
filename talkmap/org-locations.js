@@ -10,7 +10,7 @@ var addressPoints = [
     -74.2478938
   ],
   [
-    "<h1>Morphological characterization using Worldview-3 images </h2> <p> Bogota, CO, <img src=https://un-spider.org/sites/default/files/130723_IGACLCCS.jpg style=width:100px;> <ul><li><a href=http://www.scielo.org.co/scielo.php?pid=S0123-37692018000100105&script=sci_arttext&tlng=en>Using spectral ratios derived from remote sensing to geomorphological surveys</a></li></ul> This work presents an alternative to the identification of such units in the landscape complex of the archipelago of San Andrés and Providencia, by using spectral indices from WorldView 2 and 3 satellite images.</p>",
+    "<h1>Morphological characterization using Worldview-3 images </h2> <p> San Andres and Providencia Archipielago, CO, <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBaWnRKXngYX1wwzqQlhZcQ6d-rwSazwoetg&usqp=CAU style=width:100px;> <ul><li><a href=http://www.scielo.org.co/scielo.php?pid=S0123-37692018000100105&script=sci_arttext&tlng=en>Using spectral ratios derived from remote sensing to geomorphological surveys</a></li></ul> This work presents an alternative to the identification of such units in the landscape complex of the archipelago of San Andrés and Providencia, by using spectral indices from WorldView 2 and 3 satellite images.</p>",
     12.5481752,
     -81.7208727,17
   ],
