@@ -15,6 +15,8 @@ var addressPoints = [
     -81.7208727,17
   ],
   [
+    "<h1>Modeling of changes in the amazon forest, due to the implementation of energy projects in the Cordillera De Los Pichachos National Natural Park</h2> <p> Caqueta, CO. <img src=https://www.hajosiewer.de/wp-content/uploads/Paramo-Oceta.jpg style=width:100px;> <ul><li><a href=https://www.parquesnacionales.gov.co/portal/es/parques-nacionales/parque-nacional-natural-cordillera-de-los-picachos-2/ target=_blank>Parque Nacional Natural Cordillera de Los Picachos</a></li></ul> This project analyzed the visualization and modeling of land use changes over time to be carried out by summarizing the total amount, types and places of change, using the Markov chains how a potential descriptive and predictive model for the analysis of land-use change and for future distributions or assignments of uses.</p>",
+
     "Modeling of changes in the amazon forest, due to the implementation of energy projects in the Cordillera De Los Pichachos National Natural Park, Caqueta, Colombia",
     2.7397693,
     -74.9602575
