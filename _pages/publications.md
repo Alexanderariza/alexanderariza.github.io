@@ -29,7 +29,7 @@ Others publications
 
 Citation Map 
 ---------------
-<iframe src="https://publons.com/dashboard/tools/citation-map/" title="Web of Science">
+<iframe src="https://publons.com/researcher/4001658/alexander-ariza/" title="Web of Science">
 
 
 
