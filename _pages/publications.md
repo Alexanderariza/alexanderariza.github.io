@@ -11,7 +11,7 @@ Articles
 
 - Ariza, A., Rey, J. S., & de Miguel, S. M. (2019): [Comparison of maximum likelihood estimators and regression models for burn severity mapping in Mediterranean forests using Landsat TM and ETM+ data](https://www.revistasipgh.org/index.php/rcar/article/view/145). Revista Cartográfica, (98), 145 177.
 
-- Roa Melgarejo , Ariza, A., Ramírez, H. M., & León Rincón , H. (2018): [Comparison of ATCOR Atmospheric and ELM Linear Empirical Correction Models Applied to WorldView 2 Images](http://dx.doi.org/10.18180/tecciencia.2018.25.4). Tecciencia , 13(25), 29 38.
+- Roa Melgarejo , Ariza, A., Ramírez, H. M., & León Rincón , H. (2018): [Comparison of ATCOR Atmospheric and ELM Linear Empirical Correction Models Applied to WorldView 2 Images](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1909-36672018000200029). Tecciencia , 13(25), 29 38.
 
 - Ariza, A., Roa, O. J., Serrato, P. K., & León Rincón, H. A. (2018): [Using spectral ratios derived from remote sensing to geomorphological surveys in island areas of the Colombian Caribbean](http://www.scielo.org.co/scielo.php?pid=S0123-37692018000100105&script=sci_abstract&tlng=es). Perspectiva Geográfica, 23(1), 105 122.
 
