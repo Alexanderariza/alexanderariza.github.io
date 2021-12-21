@@ -5,6 +5,12 @@ title: "Current Research and Projects"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 author_profile: true
 ---
+Firelogue Project
+------
+<br/><img src='/images/firelogo.JPG'>
+
+Support to the Bonn office of [UN-SPIDER](https://un-spider.org/) of the United Nations, in the development of the activities developed within the framework of the [FIRELOGUE] (https://firelogue.eu/#[object%20Object]) project. Through the different Innovation Actions (IAs) that bring knowledge, innovations and research results come to improve the current Wildland Fire Risk Management (WFRM). FireLogue will coordinate and support these IAs by integrating their results among stakeholders and fire management phases.
+
 Integrated Geospatial Early Warning and Response System for Wild Fires
 ------
 <br/><img src='/images/INTA.JPG'>
