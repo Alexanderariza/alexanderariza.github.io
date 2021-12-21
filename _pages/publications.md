@@ -7,6 +7,8 @@ author_profile: true
 
 Articles 
 ---------------
+- Ariza, A., NA Davila, H Kemper, G Kemper (2021): [Landslide Detection in Central America Using the Differential Bare Soil Index](https://www.ggs-solutions.eu/wp-content/uploads/Landslide-Detection-in-Central-America-using-the-Differential-Bare-Soil-Index.pdf) The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XLIII-B3-2021 XXIV ISPRS Congress.
+- Ariza, A., NA Davila, H Kemper, G Kemper (2021): [Integration of Ground Truth Data via Cloud Computing for Enhanced Burn Severity Mapping – An Example from Honduras](https://austriaca.at/0xc1aa5576_0x003c9b4a.pdf), 12th International Symposium on Digital Earth, GI_Forum 2021,  Volume 9,  Issue 1.
 - Pachón, cendales I., Ariza, A., Fernández-Gómez, W. (2020). [Identifying Flexible Pavement Distresses Using Spectro Radiometry Classification on Worldview 3 Images](https://www.ripublication.com/ijaer20/ijaerv15n10_04.pdf). International Journal of Applied Engineering Research ISSN 0973-4562 Volume 15, Number 10 (2020) pp. 990-995.
 
 - Ariza, A., Rey, J. S., & de Miguel, S. M. (2019): [Comparison of maximum likelihood estimators and regression models for burn severity mapping in Mediterranean forests using Landsat TM and ETM+ data](https://www.revistasipgh.org/index.php/rcar/article/view/145). Revista Cartográfica, (98), 145 177.
