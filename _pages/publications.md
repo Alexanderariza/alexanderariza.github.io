@@ -7,6 +7,7 @@ author_profile: true
 
 Articles 
 ---------------
+- Davila N, Ariza A, Caballero L, JC Villagrand, Zaragoza A, Dominguez L, Nemiga XA, Dominguez G (2021): [Co-seismic landslide detection after M 7.4 earthquake on June 23, 2020, in Oaxaca, Mexico, based on rapid mapping method using high and medium resolution synthetic aperture radar (SAR) images](https://link.springer.com/article/10.1007%2Fs10346-021-01735-0), Landslides 10 (241), 3833–3844, Springer 2021.
 - Ariza, A., NA Davila, H Kemper, G Kemper (2021): [Landslide Detection in Central America Using the Differential Bare Soil Index](https://www.ggs-solutions.eu/wp-content/uploads/Landslide-Detection-in-Central-America-using-the-Differential-Bare-Soil-Index.pdf) The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XLIII-B3-2021 XXIV ISPRS Congress.
 
 - Ariza, A., NA Davila, H Kemper, G Kemper (2021): [Integration of Ground Truth Data via Cloud Computing for Enhanced Burn Severity Mapping – An Example from Honduras](https://austriaca.at/0xc1aa5576_0x003c9b4a.pdf), 12th International Symposium on Digital Earth, GI_Forum 2021, Volume 9, Issue 1, University of Salzburg - Austria.
