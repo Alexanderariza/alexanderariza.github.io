@@ -21,6 +21,8 @@ Articles
 
 Book chapters 
 ---------------
+- Becerra J., Ariza A., Gamarra-Amaya L.C. (2021): [Use of Open-Source Satellite Data to Combat Organized Crime Case Study: Detection of Vessels Associated with Drug-Trafficking. In: Froehlich A. (eds) Space Fostering Latin American Societies](https://link.springer.com/chapter/10.1007/978-3-030-73287-5_5). Southern Space Studies. Springer, Cham. https://doi.org/10.1007/978-3-030-73287-5_5.
+
 -  Isaacs, P., & Ariza, A. (2015): [Monitoreo a procesos de restauración ecológica aplicado a ecosistemas terrestres. Monitoreo a la restauración ecológica desde la escala del paisaje](https://www.researchgate.net/profile/Inge_Armbrecht2/publication/288004951_Las_hormigas_en_el_monitoreo_de_la_restauracion_ecologica/links/567deecc08ae1e63f1e60d71.pdf#page=53), Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.
 
 Others publications 
