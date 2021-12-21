@@ -5,7 +5,7 @@ title: "Current Research and Projects"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 author_profile: true
 ---
-Firelogue Project
+Firelogue Project - Horizont 2020
 ------
 <br/><img src='/images/firelogo.JPG'>
 
