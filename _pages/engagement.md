@@ -5,6 +5,12 @@ title: "Current Research and Projects"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 author_profile: true
 ---
+Development of an integrated geospatial early warning and response system for vegetation fires ()
+------
+<br/><img src='/images/INTA.JPG'>
+
+A project consisting of the development of an integrated geospatial system for early warning and response to vegetation fires. Developed by the Instituto Nacional de Tecnología Agropecuaria - Argentina [INTA](https://www.argentina.gob.ar/inta), under the direction of the Comisión Nacional de Actividades Espaciales - Argentina [CONAE](https://www.argentina.gob.ar/ciencia/conae), and financed by the Inter-American Development Bank [IDB](https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html), for the development of systems that work with data from the SAR satellite [SAOCOM](http://saocom.invap.com.ar/).
+
 Wildfires management training in Google Earth Engine platform - GEE
 ------
 <br/><img src='/images/training_.PNG'>
